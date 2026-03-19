@@ -1,0 +1,48 @@
+# Build output folders
+bin/
+obj/
+
+# Visual Studio temporary files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code workspace settings
+.vscode/
+
+# Rider IDE files
+.idea/
+
+# NuGet packages folder
+packages/
+
+# DotNet Core files
+*.dll
+*.exe
+*.pdb
+*.app
+
+# Logs
+*.log
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.temp
+
+# Publish folder
+publish/
+
+# Resharper files
+_ReSharper*/
+
+# DotNet watch files
+.dotnet-watch/
+
+# JetBrains Rider
+*.sln.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
